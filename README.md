@@ -15,12 +15,13 @@ Unzip directly into your .minecraft folder
 - pizza https://www.curseforge.com/minecraft/mc-mods/pizzacraft/files/2986635
 - food mod https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life/files/2571951
 - JEI https://www.curseforge.com/minecraft/mc-mods/jei/files/3043174
-- optifine https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar&amp;x=b8a3
 - backpack https://www.curseforge.com/minecraft/mc-mods/travelers-backpack/files/3150850
 - buildcraft https://www.curseforge.com/minecraft/mc-mods/buildcraft/files/3204475
-- rats https://www.curseforge.com/minecraft/mc-mods/rats/files/3028671
-- dependency for rats https://www.curseforge.com/minecraft/mc-mods/llibrary/files/3116493
+- davincis vessels https://www.curseforge.com/minecraft/mc-mods/davincis-vessels/files/3001930
+- movingworld (davincis vessels dependency) https://www.curseforge.com/minecraft/mc-mods/movingworld/files/3007966
 - anti cheat https://www.curseforge.com/minecraft/mc-mods/core-anti-cheat/files/3568265
+- login https://www.curseforge.com/minecraft/mc-mods/simple-login/files/2996748
+- voice chat https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/4332091
 
 ---
 
