@@ -19,7 +19,6 @@ Unzip directly into your .minecraft folder
 - buildcraft https://www.curseforge.com/minecraft/mc-mods/buildcraft/files/3204475
 - davincis vessels https://www.curseforge.com/minecraft/mc-mods/davincis-vessels/files/3001930
 - movingworld (davincis vessels dependency) https://www.curseforge.com/minecraft/mc-mods/movingworld/files/3007966
-- hbm https://www.curseforge.com/minecraft/mc-mods/hbms-nuclear-tech-mod-reloaded/files/4283916
 - anti cheat https://www.curseforge.com/minecraft/mc-mods/core-anti-cheat/files/3568265
 - login https://www.curseforge.com/minecraft/mc-mods/simple-login/files/2996748
 - voice chat https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/4332091
