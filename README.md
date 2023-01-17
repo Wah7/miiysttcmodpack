@@ -22,6 +22,7 @@ Unzip directly into your .minecraft folder
 - anti cheat https://www.curseforge.com/minecraft/mc-mods/core-anti-cheat/files/3568265
 - login https://www.curseforge.com/minecraft/mc-mods/simple-login/files/2996748
 - voice chat https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/4332091
+- offline skins https://www.curseforge.com/minecraft/mc-mods/offlineskins/files/2744747
 
 ---
 
