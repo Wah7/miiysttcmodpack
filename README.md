@@ -21,6 +21,7 @@ Unzip directly into your .minecraft folder
 - rats https://www.curseforge.com/minecraft/mc-mods/rats/files/3028671
 - dependency for rats https://www.curseforge.com/minecraft/mc-mods/llibrary/files/3116493
 - anti cheat https://www.curseforge.com/minecraft/mc-mods/core-anti-cheat/files/3568265
+- login https://www.curseforge.com/minecraft/mc-mods/simple-login/files/2996748
 
 ---
 
