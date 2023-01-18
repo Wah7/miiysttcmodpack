@@ -21,8 +21,10 @@ Unzip directly into your .minecraft folder
 - movingworld (davincis vessels dependency) https://www.curseforge.com/minecraft/mc-mods/movingworld/files/3007966
 - flags https://www.curseforge.com/minecraft/mc-mods/flagged/files/2493340
 - gravestones https://www.curseforge.com/minecraft/mc-mods/gravestone-mod/files/2744766
+- animania base https://www.curseforge.com/minecraft/mc-mods/animania/files/3213136
+- animania farm https://www.curseforge.com/minecraft/mc-mods/animania-farm/files/3213139
+- animania extra https://www.curseforge.com/minecraft/mc-mods/animania-extra/files/3213137
 - anti cheat https://www.curseforge.com/minecraft/mc-mods/core-anti-cheat/files/3568265
-- login https://www.curseforge.com/minecraft/mc-mods/simple-login/files/2996748
 - voice chat https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/4332091
 - offline skins https://www.curseforge.com/minecraft/mc-mods/offlineskins/files/2744747
 
