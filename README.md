@@ -7,6 +7,7 @@ Unzip directly into your .minecraft folder
 ### **mod list:**
 
 - applecore https://www.curseforge.com/minecraft/mc-mods/applecore/files/2969118
+- appleskin https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2987247
 - animals https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus/files/2933382
 - flans mod https://www.curseforge.com/minecraft/mc-mods/flans-mod-5-5-2/files/3278090
 - economy https://www.curseforge.com/minecraft/mc-mods/economy-inc/files/2841677
@@ -15,6 +16,7 @@ Unzip directly into your .minecraft folder
 - pizza https://www.curseforge.com/minecraft/mc-mods/pizzacraft/files/2986635
 - food mod https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life/files/2571951
 - JEI https://www.curseforge.com/minecraft/mc-mods/jei/files/3043174
+- JER https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/files/2728585
 - backpack https://www.curseforge.com/minecraft/mc-mods/travelers-backpack/files/3150850
 - buildcraft https://www.curseforge.com/minecraft/mc-mods/buildcraft/files/3204475
 - davincis vessels https://www.curseforge.com/minecraft/mc-mods/davincis-vessels/files/3001930
