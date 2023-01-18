@@ -24,6 +24,7 @@ Unzip directly into your .minecraft folder
 - animania base https://www.curseforge.com/minecraft/mc-mods/animania/files/3213136
 - animania farm https://www.curseforge.com/minecraft/mc-mods/animania-farm/files/3213139
 - animania extra https://www.curseforge.com/minecraft/mc-mods/animania-extra/files/3213137
+- animania dependency https://www.curseforge.com/minecraft/mc-mods/craftstudio-api/files/2661859
 - anti cheat https://www.curseforge.com/minecraft/mc-mods/core-anti-cheat/files/3568265
 - voice chat https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/4332091
 - offline skins https://www.curseforge.com/minecraft/mc-mods/offlineskins/files/2744747
