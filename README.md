@@ -6,7 +6,6 @@ Unzip directly into your .minecraft folder
 
 ### **mod list:**
 
-- applecore https://www.curseforge.com/minecraft/mc-mods/applecore/files/2969118
 - appleskin https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2987247
 - animals https://www.curseforge.com/minecraft/mc-mods/betteranimalsplus/files/2933382
 - flans mod https://www.curseforge.com/minecraft/mc-mods/flans-mod-5-5-2/files/3278090
@@ -21,15 +20,13 @@ Unzip directly into your .minecraft folder
 - buildcraft https://www.curseforge.com/minecraft/mc-mods/buildcraft/files/3204475
 - davincis vessels https://www.curseforge.com/minecraft/mc-mods/davincis-vessels/files/3001930
 - movingworld (davincis vessels dependency) https://www.curseforge.com/minecraft/mc-mods/movingworld/files/3007966
-- flags https://www.curseforge.com/minecraft/mc-mods/flagged/files/2493340
 - gravestones https://www.curseforge.com/minecraft/mc-mods/gravestone-mod/files/2744766
 - animania base https://www.curseforge.com/minecraft/mc-mods/animania/files/3213136
 - animania farm https://www.curseforge.com/minecraft/mc-mods/animania-farm/files/3213139
 - animania extra https://www.curseforge.com/minecraft/mc-mods/animania-extra/files/3213137
 - animania dependency https://www.curseforge.com/minecraft/mc-mods/craftstudio-api/files/2661859
-- anti cheat https://www.curseforge.com/minecraft/mc-mods/core-anti-cheat/files/3568265
-- voice chat https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/4332091
 - offline skins https://www.curseforge.com/minecraft/mc-mods/offlineskins/files/2744747
+- login https://www.curseforge.com/minecraft/mc-mods/simple-login/files/2996748
 
 ---
 
